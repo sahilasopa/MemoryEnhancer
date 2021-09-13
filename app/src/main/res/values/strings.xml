@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MemoryEnhancer</string>
+    <string name="logo">Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="summary">Summary</string>
+    <string name="sentences_hub">Sentences</string>
+    <string name="numbers">Numbers</string>
+    <string name="flashcard">Flashcards</string>
+    <string name="todo">ToDo</string>
+    <string name="help">Help</string>
+    <string name="generate_a_random_word_and_n_test_your_memory">Generate A Random Word And \n Test Your Memory</string>
+    <string name="generate">Generate</string>
+    <string name="your_random_string_is">Your Random String Is:</string>
+    <string name="a7bz3r">A7BZ3R</string>
+    <string name="enter_the_random_string_you_n_saw_few_seconds_ago">Enter The Random String You \n Saw Few Seconds Ago</string>
+    <string name="xyz123">XYZ123</string>
+    <string name="forgot_word">Forgot Word :(</string>
+    <string name="submit">Submit</string>
+    <string name="remember_it">\"Remember It In: \"</string>
+    <string name="_123098">123098</string>
+    <string name="your_otp_for_nothing_is">Your OTP For Nothing Is</string>
+    <string name="enter_the_otp_you_saw_on_last_screen">Enter The OTP You Saw On Last Screen</string>
+    <string name="forgot_otp">Forgot OTP</string>
+    <string name="generate_a_random_number_and_improve_n_your_otp_remembering_skills">Generate A Random Number And Improve \n Your OTP Remembering Skills</string>
+    <string name="add">Add</string>
+    <string name="create">Create</string>
+    <string name="icon">icon</string>
+    <string name="content">Content</string>
+    <string name="create_a_new_flashcard">Create A New Flashcard</string>
+    <string name="enter">Please Enter Some Text</string>
+    <string name="you_currently_have_no_flashcards_n_click_to_add_new">You Currently Have No Flashcards \n Click To Add New</string>
+    <string name="New">New</string>
+    <string name="delete">delete</string>
+    <string name="eat_maggi_alone_without_paru">Eat Maggi Alone Without Paru</string>
+    <string name="add_a_new_todo">Add A New Todo</string>
+    <string name="create_a_new_todo_to_get_started">Create A New Todo To Get Started</string>
+    <string name="your_summary">Your Summary</string>
+    <string name="numberPLayed">Number Exercise Played: &#160;</string>
+    <string name="stringPlays">String Game Played: &#160;</string>
+    <string name="stringWon">String victories: &#160;</string>
+    <string name="numberWon">Number Victories: &#160;</string>
+</resources>

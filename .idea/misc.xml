@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/drawable/ic_baseline_more_vert.xml" value="0.2703125" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/drawable/textview.xml" value="0.2703125" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/font/aclonica.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_flashcard.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_new_flashcard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_new_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_numbers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_sentences.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/activity_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/flashcard_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/fragment_summary.xml" value="0.23666343355965083" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/layout/todo_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/menu/crud.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/menu/flashcard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/menu/menu.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/sahil/AndroidStudioProjects/MemoryEnhancer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

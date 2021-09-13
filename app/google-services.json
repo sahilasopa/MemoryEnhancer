@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825490884743",
+    "project_id": "memoryenhancer-838da",
+    "storage_bucket": "memoryenhancer-838da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825490884743:android:5bf747e887cf36a8ec1022",
+        "android_client_info": {
+          "package_name": "com.sahilasopa.memoryenhancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825490884743-ak4b7nf7vgsri7usisb1r4td7ppo324a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzg5viqwDNgnQ94l3eMzM4bxQaAiiBdvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825490884743-ak4b7nf7vgsri7usisb1r4td7ppo324a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
