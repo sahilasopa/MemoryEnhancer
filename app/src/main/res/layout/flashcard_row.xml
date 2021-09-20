@@ -42,13 +42,13 @@
                         android:layout_height="wrap_content"
                         android:layout_centerInParent="true"
                         android:layout_marginTop="10dp"
+                        android:gravity="center"
                         android:padding="6dp"
                         android:scrollbars="vertical"
-                        android:gravity="center"
                         android:text="Flashcards Are Effective To Remember Stuff"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:textSize="22sp"
-                        app:fontFamily="@font/aclonica" />
+                        app:fontFamily="" />
 
 
                 </RelativeLayout>

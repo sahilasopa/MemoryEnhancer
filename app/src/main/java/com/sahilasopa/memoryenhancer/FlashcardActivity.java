@@ -38,6 +38,8 @@ public class FlashcardActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityFlashcardBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+        binding.textView4.setVisibility(View.INVISIBLE);
+        binding.button2.setVisibility(View.INVISIBLE);
         database = FirebaseDatabase.getInstance();
         // Get from the SharedPreferences
         SharedPreferences values = getApplicationContext().getSharedPreferences("memories", 0);
@@ -66,6 +68,7 @@ public class FlashcardActivity extends AppCompatActivity {
                     binding.button2.setOnClickListener(v -> {
                         Intent newCard = new Intent(FlashcardActivity.this, NewFlashcard.class);
                         startActivity(newCard);
+                        finish();
                     });
                 }
                 recyclerView.setAdapter(flashcardAdapter);

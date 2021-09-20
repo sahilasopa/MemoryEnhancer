@@ -39,6 +39,8 @@ public class TodoActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
         database = FirebaseDatabase.getInstance();
         // Get from the SharedPreferences
+        binding.textView4.setVisibility(View.INVISIBLE);
+        binding.button2.setVisibility(View.INVISIBLE);
         SharedPreferences values = getApplicationContext().getSharedPreferences("memories", 0);
         String uid = values.getString("uid", "none");
         RecyclerView recyclerView;
